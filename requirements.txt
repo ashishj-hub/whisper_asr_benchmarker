@@ -1,0 +1,6 @@
+requests
+jiwer
+numpy
+soundfile
+datasets
+whisper-normalizer
